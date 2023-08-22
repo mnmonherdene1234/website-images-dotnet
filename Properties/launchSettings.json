@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WebsiteImages": {
+      "commandName": "Project",
+      "commandLineArgs": "https://www.ajinmed.mn/services"
+    }
+  }
+}

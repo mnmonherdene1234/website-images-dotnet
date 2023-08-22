@@ -1,0 +1,14 @@
+C:\Users\mnmon\source\repos\WebsiteImages\bin\Release\net6.0\WebsiteImages.exe
+C:\Users\mnmon\source\repos\WebsiteImages\bin\Release\net6.0\WebsiteImages.deps.json
+C:\Users\mnmon\source\repos\WebsiteImages\bin\Release\net6.0\WebsiteImages.runtimeconfig.json
+C:\Users\mnmon\source\repos\WebsiteImages\bin\Release\net6.0\WebsiteImages.dll
+C:\Users\mnmon\source\repos\WebsiteImages\bin\Release\net6.0\WebsiteImages.pdb
+C:\Users\mnmon\source\repos\WebsiteImages\obj\Release\net6.0\WebsiteImages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnmon\source\repos\WebsiteImages\obj\Release\net6.0\WebsiteImages.AssemblyInfoInputs.cache
+C:\Users\mnmon\source\repos\WebsiteImages\obj\Release\net6.0\WebsiteImages.AssemblyInfo.cs
+C:\Users\mnmon\source\repos\WebsiteImages\obj\Release\net6.0\WebsiteImages.csproj.CoreCompileInputs.cache
+C:\Users\mnmon\source\repos\WebsiteImages\obj\Release\net6.0\WebsiteImages.dll
+C:\Users\mnmon\source\repos\WebsiteImages\obj\Release\net6.0\refint\WebsiteImages.dll
+C:\Users\mnmon\source\repos\WebsiteImages\obj\Release\net6.0\WebsiteImages.pdb
+C:\Users\mnmon\source\repos\WebsiteImages\obj\Release\net6.0\WebsiteImages.genruntimeconfig.cache
+C:\Users\mnmon\source\repos\WebsiteImages\obj\Release\net6.0\ref\WebsiteImages.dll

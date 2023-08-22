@@ -1,0 +1,5 @@
+C:\Users\mnmon\source\repos\WebsiteImages\bin\Release\net6.0\publish\WebsiteImages.exe
+C:\Users\mnmon\source\repos\WebsiteImages\bin\Release\net6.0\publish\WebsiteImages.dll
+C:\Users\mnmon\source\repos\WebsiteImages\bin\Release\net6.0\publish\WebsiteImages.deps.json
+C:\Users\mnmon\source\repos\WebsiteImages\bin\Release\net6.0\publish\WebsiteImages.runtimeconfig.json
+C:\Users\mnmon\source\repos\WebsiteImages\bin\Release\net6.0\publish\WebsiteImages.pdb
